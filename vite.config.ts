@@ -5,4 +5,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
+  base: "https://strawberrydeveloper.github.io/expense-tracker/",
 })
